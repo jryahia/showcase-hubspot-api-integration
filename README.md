@@ -43,6 +43,10 @@ No-code connectors hit limits on volume, logic and error handling. This service 
 
 ![Contacts, pipeline and sync health](assets/00-api-dashboard.png)
 
+**Contacts, activity and companies**
+
+![Contacts, activity and companies](assets/10-pipeline.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).

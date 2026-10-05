@@ -39,6 +39,8 @@ No-code connectors hit limits on volume, logic and error handling. This service 
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Contacts, pipeline and sync health**
 
 ![Contacts, pipeline and sync health](assets/00-api-dashboard.png)
